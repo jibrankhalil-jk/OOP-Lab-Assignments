@@ -28,6 +28,8 @@ int main()
     return 0;
 }
 
+
+
 float *subtotal(float floatingPoints[], int numOfCells)
 {
     float *updatedArra;
